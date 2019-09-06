@@ -1,2 +1,2 @@
-# ARTIFICIAL-INTELLIGENCE-NTUA
+# AI-NTUA
 Artificial Intelligence Course Projects -- National Technical University of Athens 
